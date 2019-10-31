@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Md Kishor Morol
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: dddddddddddddddddddddddd of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
